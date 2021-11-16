@@ -1,0 +1,26 @@
+{
+    "dbb": {
+        "prefixes": {
+            "main": "!",
+            "servers": {}
+        },
+        "owners": []
+    },
+    "discord": {
+        "servers": {},
+        "members": {
+            "107558705410609152": {
+                "Medallion Coin\n": 212
+            },
+            "450838892636274688": {
+                "Medallion Coin\n": 29
+            },
+            "433100850265849866": {
+                "Medallion Coin\n": 15
+            }
+        },
+        "users": {}
+    },
+    "blocks": {},
+    "custom": {}
+}
