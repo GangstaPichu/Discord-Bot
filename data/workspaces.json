@@ -871,8 +871,7 @@
                     "action2": [
                         "ALpci04mFD"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "number",
@@ -891,8 +890,7 @@
                     "number": [
                         "DuKSNimJlx"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "text",
@@ -911,8 +909,7 @@
                     "text": [
                         "BODyaJWkYL"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "delete_message",
@@ -934,8 +931,7 @@
                     "action": [
                         "F7j0QvuCX0"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "get_user_as_member",
@@ -959,8 +955,7 @@
                     "member": [
                         "En9SeBIqfv"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message_first",
@@ -983,8 +978,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text",
@@ -1003,8 +997,7 @@
                     "text": [
                         "PsV83eu0bP"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "get_member_info",
@@ -1052,8 +1045,7 @@
                     "color": [
                         "lc1R8sS36o"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_embed_message",
@@ -1087,8 +1079,7 @@
                     "message_embed": [
                         "cOyGo7Ei1Q"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message_first",
@@ -1111,8 +1102,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text_3x",
@@ -1134,11 +1124,10 @@
                         "wOS2miwPrz"
                     ],
                     "text2": [
-                        "oill0DA5LR"
+                        "U7YiXQd6xF"
                     ],
                     "text3": []
-                },
-                "inputs": {}
+                }
             }
         ],
         "notes": []
