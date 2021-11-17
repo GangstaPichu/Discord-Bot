@@ -22,5 +22,9 @@
         "users": {}
     },
     "blocks": {},
-    "custom": {}
+    "custom": {
+        "kebab-slowmode": false,
+        "work-slowmode": false,
+        "invite-slowmode": true
+    }
 }
