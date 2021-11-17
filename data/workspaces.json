@@ -691,8 +691,7 @@
                     "action": [
                         "eLONQubmcm"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "get_content_from_website",
@@ -715,8 +714,7 @@
                     "content": [
                         "DfQgaHVav0"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text",
@@ -735,8 +733,7 @@
                     "text": [
                         "jyAO9yH8TR"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "create_embed_message",
@@ -768,8 +765,7 @@
                         "jKpu7cuXYu"
                     ],
                     "message_embed": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message_first",
@@ -792,8 +788,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             }
         ],
         "notes": []
@@ -1199,8 +1194,7 @@
                     "action": [
                         "TVszxouMVT"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "slowmode",
@@ -1224,8 +1218,7 @@
                     "action2": [
                         "ozE0TtyZfh"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_permissions",
@@ -1306,8 +1299,7 @@
                     "text": [
                         "bgGx3UZSvj"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "create_embed_message",
@@ -1341,8 +1333,7 @@
                     "message_embed": [
                         "MBdc5sV4VE"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message_first",
@@ -1365,8 +1356,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message_first",
@@ -1393,8 +1383,7 @@
                     "message": [
                         "MJOKMNbVGJ"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text",
@@ -1413,8 +1402,7 @@
                     "text": [
                         "kR6ehIocrn"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "text",
@@ -1433,8 +1421,7 @@
                     "text": [
                         "ipEQyZUHGo"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "delete_message",
@@ -1454,8 +1441,7 @@
                 },
                 "outputs": {
                     "action": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "number",
@@ -1474,8 +1460,7 @@
                     "number": [
                         "MWKEeDWfgf"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "number",
@@ -1494,8 +1479,7 @@
                     "number": [
                         "zCdOdFQaxe"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "text_3x",
@@ -1522,8 +1506,7 @@
                     "text3": [
                         "sEoxtA9HKt"
                     ]
-                },
-                "inputs": {}
+                }
             }
         ],
         "notes": []
@@ -2123,8 +2106,7 @@
                     "button": [
                         "GuaAoaBwla"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text_3x",
@@ -2151,8 +2133,7 @@
                     "text3": [
                         "z5fjghFj7S"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "create_list",
@@ -2174,8 +2155,7 @@
                     "list": [
                         "MlIFIYuyZM"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "add_item_to_list",
@@ -2226,8 +2206,7 @@
                     "buttonrow": [
                         "5P0SZXNrsz"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "edit_message_component",
@@ -2249,8 +2228,7 @@
                 "outputs": {
                     "action": [],
                     "error": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text",
@@ -2269,8 +2247,7 @@
                     "text": [
                         "0viiJULWDv"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "create_embed_message",
@@ -2304,8 +2281,7 @@
                     "message_embed": [
                         "fgvJZzzd5n"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message_component",
@@ -2330,8 +2306,7 @@
                     "action": [],
                     "message": [],
                     "error": []
-                },
-                "options": {}
+                }
             }
         ],
         "notes": []
@@ -2360,8 +2335,7 @@
                     "text": [
                         "3pVrmKmPfZ"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "text",
@@ -2380,8 +2354,7 @@
                     "text": [
                         "e3cZX5QBEL"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "generate_random_color",
@@ -2403,8 +2376,7 @@
                     "color": [
                         "3Y6u0VEIaP"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text",
@@ -2423,23 +2395,22 @@
                     "text": [
                         "NZ5tch7go0"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "number_9x",
                 "info": {
-                    "x": 813,
-                    "y": 175,
+                    "x": 807,
+                    "y": 191,
                     "z": 5,
                     "color": "#5a5a5a",
                     "height": 555,
                     "width": 356
                 },
                 "options": {
-                    "number1": "5",
-                    "number2": "5",
-                    "number3": "5",
+                    "number1": "20",
+                    "number2": "20",
+                    "number3": "10",
                     "number4": "5",
                     "number5": "11",
                     "number6": "5",
@@ -2474,8 +2445,7 @@
                         "oWbiBIracD"
                     ],
                     "number9": []
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "create_canvas_mod4",
@@ -2543,8 +2513,7 @@
                     "image": [
                         "6gPWBVGazI"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message_first",
@@ -2567,8 +2536,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "command_event_with_text",
@@ -2635,9 +2603,7 @@
                     "user": [
                         "Wr83oaJujM"
                     ]
-                },
-                "inputs": {},
-                "options": {}
+                }
             },
             {
                 "name": "Captcha_GeneratorV3",
@@ -2658,8 +2624,7 @@
                         "zqnAWUKqLq"
                     ],
                     "action2": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "captgenV2",
@@ -2677,8 +2642,7 @@
                 },
                 "outputs": {
                     "action": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "generate_random_text",
@@ -2701,8 +2665,7 @@
                     "text": [
                         "7RxcCly8aP"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "send_message_first",
@@ -2725,8 +2688,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "number",
@@ -2745,8 +2707,7 @@
                     "number": [
                         "kO2hgAPXdY"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "generate_random_number",
@@ -2766,8 +2727,7 @@
                 "outputs": {
                     "action": [],
                     "number": []
-                },
-                "options": {}
+                }
             }
         ],
         "notes": []
@@ -2796,9 +2756,7 @@
                     "server": [
                         "Ej4gyv30IG"
                     ]
-                },
-                "inputs": {},
-                "options": {}
+                }
             },
             {
                 "name": "send_message_first",
@@ -2821,8 +2779,7 @@
                 "outputs": {
                     "action": [],
                     "message": []
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text",
@@ -2841,8 +2798,7 @@
                     "text": [
                         "HPk9wn6uC0"
                     ]
-                },
-                "inputs": {}
+                }
             }
         ],
         "notes": []
@@ -2868,9 +2824,7 @@
                     "action": [
                         "nEKnWjXwZs"
                     ]
-                },
-                "inputs": {},
-                "options": {}
+                }
             },
             {
                 "name": "loop_time",
@@ -2891,8 +2845,7 @@
                     "action": [
                         "EcD3YU0Bvs"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "number",
@@ -2911,8 +2864,7 @@
                     "number": [
                         "z6gnvGoTki"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "set_bot_activity",
@@ -2957,8 +2909,7 @@
                     "action": [
                         "UAwUGyweHN"
                     ]
-                },
-                "options": {}
+                }
             },
             {
                 "name": "text",
@@ -2977,8 +2928,7 @@
                     "text": [
                         "x24dyjdmMu"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "number",
@@ -2997,8 +2947,7 @@
                     "number": [
                         "XjtBiculQU"
                     ]
-                },
-                "inputs": {}
+                }
             },
             {
                 "name": "set_bot_activity",
@@ -3039,8 +2988,7 @@
                     "text": [
                         "iA0oxQErBd"
                     ]
-                },
-                "inputs": {}
+                }
             }
         ],
         "notes": []
