@@ -50,8 +50,8 @@
             {
                 "name": "create_embed_message",
                 "info": {
-                    "x": 777,
-                    "y": 908,
+                    "x": 785,
+                    "y": 912,
                     "z": 3,
                     "color": "#5a5a5a",
                     "height": 517,
@@ -391,10 +391,10 @@
                 "name": "command_event_with_text",
                 "info": {
                     "x": 0,
-                    "y": 774,
+                    "y": 724,
                     "z": 18,
                     "color": "#5a5a5a",
-                    "height": 401,
+                    "height": 453,
                     "width": 759
                 },
                 "inputs": {
@@ -450,8 +450,8 @@
             {
                 "name": "send_message_first",
                 "info": {
-                    "x": 1144,
-                    "y": 916,
+                    "x": 1139,
+                    "y": 906,
                     "z": 20,
                     "color": "#5a5a5a",
                     "height": 237,
@@ -514,8 +514,8 @@
             {
                 "name": "get_user_as_member",
                 "info": {
-                    "x": 828,
-                    "y": 1437,
+                    "x": 833,
+                    "y": 1442,
                     "z": 23,
                     "color": "#5a5a5a",
                     "height": 144,
@@ -538,8 +538,8 @@
             {
                 "name": "get_member_info",
                 "info": {
-                    "x": 601,
-                    "y": 1595,
+                    "x": 583,
+                    "y": 1599,
                     "z": 24,
                     "color": "#5a5a5a",
                     "height": 113,
@@ -639,7 +639,7 @@
                     "width": 305
                 },
                 "options": {
-                    "text": "Welcome to the virtual world of Hexbur! "
+                    "text": "'''Welcome to the virtual world of Hexbur! '''"
                 },
                 "outputs": {
                     "text": [
@@ -700,7 +700,7 @@
                     "width": 305
                 },
                 "options": {
-                    "text": "y"
+                    "text": "'''If you get stuck at any point please do ;help ! :) '''"
                 },
                 "outputs": {
                     "text": [
@@ -917,8 +917,1098 @@
                         "HbWH6n3POS"
                     ]
                 }
+            },
+            {
+                "name": "command_event_with_text",
+                "info": {
+                    "x": 2355,
+                    "y": 2782,
+                    "z": 43,
+                    "color": "#5a5a5a",
+                    "height": 401,
+                    "width": 759
+                },
+                "inputs": {
+                    "command_slowmode": "DszzG40bvG"
+                },
+                "options": {
+                    "command_name": "kebabiwant",
+                    "custom_prefix": ";",
+                    "command_restriction": "none",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "9CV4HiNYH3"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "server": [
+                        "nyMHusWJYd"
+                    ],
+                    "channel": [
+                        "SgfNLElzCt"
+                    ],
+                    "vc": [],
+                    "user": [
+                        "kPd2Du1PdJ"
+                    ],
+                    "member": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "create_embed_message",
+                "info": {
+                    "x": 4712,
+                    "y": 2666,
+                    "z": 44,
+                    "color": "#5a5a5a",
+                    "height": 517,
+                    "width": 340
+                },
+                "inputs": {
+                    "action": "Gcfezizqdg",
+                    "color": "GPG99pFGg7",
+                    "thumbnail": "nah63JeMEa",
+                    "author_icon": "RGznA9snXk",
+                    "author_name": "VKeyLKLFLQ",
+                    "author_url": "3crrfDihkC",
+                    "title": "Q93mhldyhy",
+                    "url": "8a0eEHJVvG",
+                    "description": "6DD1u1qO2j",
+                    "image": "EoqlQdM8gk",
+                    "footer_icon": "V5ns55a5xD",
+                    "footer_text": "6xqQOdGcYY",
+                    "timestamp": "wMsqs4SZoo"
+                },
+                "outputs": {
+                    "action": [
+                        "QJZCFeDlIu"
+                    ],
+                    "message_embed": [
+                        "Yif1Qgzgb5"
+                    ]
+                }
+            },
+            {
+                "name": "text_6x",
+                "info": {
+                    "x": 5087,
+                    "y": 2655,
+                    "z": 45,
+                    "color": "#5a5a5a",
+                    "height": 453,
+                    "width": 318
+                },
+                "options": {
+                    "text1": "#385000",
+                    "text2": "Here's your kebab!",
+                    "text3": "",
+                    "text4": "https://theurbantandoor.com/wp-content/uploads/2019/11/hariyali-kebab.jpg",
+                    "text5": "",
+                    "text6": ""
+                },
+                "outputs": {
+                    "text1": [],
+                    "text2": [
+                        "Q93mhldyhy"
+                    ],
+                    "text3": [],
+                    "text4": [
+                        "EoqlQdM8gk"
+                    ],
+                    "text5": [],
+                    "text6": []
+                }
+            },
+            {
+                "name": "get_user_as_member",
+                "info": {
+                    "x": 3172,
+                    "y": 2867,
+                    "z": 46,
+                    "color": "#5a5a5a",
+                    "height": 144,
+                    "width": 226
+                },
+                "inputs": {
+                    "action": "9CV4HiNYH3",
+                    "server": "nyMHusWJYd",
+                    "user": "kPd2Du1PdJ"
+                },
+                "outputs": {
+                    "action": [
+                        "KowY8XCRG6"
+                    ],
+                    "member": [
+                        "QMCLUnLnPV"
+                    ]
+                }
+            },
+            {
+                "name": "get_member_info",
+                "info": {
+                    "x": 3464,
+                    "y": 2792,
+                    "z": 47,
+                    "color": "#5a5a5a",
+                    "height": 113,
+                    "width": 740
+                },
+                "inputs": {
+                    "action": "KowY8XCRG6",
+                    "member": "QMCLUnLnPV"
+                },
+                "options": {
+                    "member_info": "7"
+                },
+                "outputs": {
+                    "action": [
+                        "oHd67YuT7Q"
+                    ],
+                    "result": []
+                }
+            },
+            {
+                "name": "send_message_first",
+                "info": {
+                    "x": 5488,
+                    "y": 2693,
+                    "z": 48,
+                    "color": "#5a5a5a",
+                    "height": 237,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "QJZCFeDlIu",
+                    "channel": "SgfNLElzCt",
+                    "text": "WMPnoiqdTV",
+                    "embed": "Yif1Qgzgb5",
+                    "attachment": "1xFaDGn7ms",
+                    "split_message": "Sga3IlN80G"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                }
+            },
+            {
+                "name": "command_event_with_text",
+                "info": {
+                    "x": 4468,
+                    "y": 1295,
+                    "z": 49,
+                    "color": "#5a5a5a",
+                    "height": 401,
+                    "width": 759
+                },
+                "inputs": {
+                    "command_slowmode": "sCGd9aSS7U"
+                },
+                "options": {
+                    "command_name": "test",
+                    "custom_prefix": ";",
+                    "command_restriction": "none",
+                    "required_member_permission": "none",
+                    "case_sensitive": "no",
+                    "command_slowmode_restriction": "none"
+                },
+                "outputs": {
+                    "action1": [
+                        "eGv54LKal0"
+                    ],
+                    "action2": [],
+                    "message": [],
+                    "server": [],
+                    "channel": [
+                        "w1KnJvPXMM"
+                    ],
+                    "vc": [],
+                    "user": [],
+                    "member": [],
+                    "error_message": []
+                }
+            },
+            {
+                "name": "generate_random_color",
+                "info": {
+                    "x": 4314,
+                    "y": 2725,
+                    "z": 50,
+                    "color": "#5a5a5a",
+                    "height": 113,
+                    "width": 249
+                },
+                "inputs": {
+                    "action": "oHd67YuT7Q"
+                },
+                "outputs": {
+                    "action": [],
+                    "color": [
+                        "GPG99pFGg7"
+                    ]
+                }
+            },
+            {
+                "name": "text_6x",
+                "info": {
+                    "x": 5078,
+                    "y": 304,
+                    "z": 55,
+                    "color": "#5a5a5a",
+                    "height": 453,
+                    "width": 318
+                },
+                "options": {
+                    "text1": ";help - Displays a list of help commands",
+                    "text2": ";headset - Puts on your headset to access the virual world!",
+                    "text3": ";work - Makes you money to spend in Hexbur!",
+                    "text4": ";kebabiwant - Gives you a nice tasty kebab. Yummm~",
+                    "text5": "",
+                    "text6": ""
+                },
+                "outputs": {
+                    "text1": [
+                        "N4RrX1w8np"
+                    ],
+                    "text2": [
+                        "mGvw695Bxu"
+                    ],
+                    "text3": [
+                        "KQp4JbhsWe"
+                    ],
+                    "text4": [
+                        "ouqHVTF8AI"
+                    ],
+                    "text5": [],
+                    "text6": []
+                }
+            },
+            {
+                "name": "merge_texts_advanced_6x",
+                "info": {
+                    "x": 5092,
+                    "y": 10,
+                    "z": 56,
+                    "color": "#5a5a5a",
+                    "height": 268,
+                    "width": 418
+                },
+                "inputs": {
+                    "action": "qr9CFUaOfB",
+                    "text1": "N4RrX1w8np",
+                    "text2": "mGvw695Bxu",
+                    "text3": "KQp4JbhsWe",
+                    "text4": "ouqHVTF8AI",
+                    "text5": "4hx7M8zDRc",
+                    "text6": "GWYqI9pedm"
+                },
+                "options": {
+                    "text": "${text1} \n${text2}\n${text3}\n${text4}"
+                },
+                "outputs": {
+                    "action": [
+                        "0C48x2AIgG"
+                    ],
+                    "text": [
+                        "6zRpXiMUfm"
+                    ]
+                }
+            },
+            {
+                "name": "send_message_first",
+                "info": {
+                    "x": 6713,
+                    "y": 8,
+                    "z": 64,
+                    "color": "#5a5a5a",
+                    "height": 237,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "OIQ7BA1GzJ",
+                    "channel": "rHNaRAwusP",
+                    "text": "TT0PDSCEiK",
+                    "embed": "n4aKwNpKV8",
+                    "attachment": "lmXvqYs2rm",
+                    "split_message": "N4EZLEwCtv"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                }
+            },
+            {
+                "name": "create_embed_message",
+                "info": {
+                    "x": 6348,
+                    "y": 1,
+                    "z": 67,
+                    "color": "#5a5a5a",
+                    "height": 517,
+                    "width": 340
+                },
+                "inputs": {
+                    "action": "msXD9wfAjC",
+                    "color": "LI8gA8oQM9",
+                    "thumbnail": "ZtTEh2Ln5C",
+                    "author_icon": "2VmUEKsOU4",
+                    "author_name": "mrtUs6Bzxg",
+                    "author_url": "gGUAfDBhhX",
+                    "title": "5mjvkqOhaJ",
+                    "url": "vZ3KJADOAI",
+                    "description": "22a0ApqOV0",
+                    "image": "938QtRAMoV",
+                    "footer_icon": "hbOkgwTpFc",
+                    "footer_text": "pAiBRTpPLZ",
+                    "timestamp": "DojboQrKjR"
+                },
+                "outputs": {
+                    "action": [],
+                    "message_embed": []
+                }
+            },
+            {
+                "name": "create_canvas_mod4",
+                "info": {
+                    "x": 7545,
+                    "y": 2662,
+                    "z": 68,
+                    "color": "#5a5a5a",
+                    "height": 578,
+                    "width": 439
+                },
+                "inputs": {
+                    "action": "U6UpUTgQnP",
+                    "path": "JRpPW2hs0Q",
+                    "width": "3st3PDrpAR",
+                    "height": "wJkA2MdhSA",
+                    "image": "Kv2siVrG8H",
+                    "x2": "Hxgv1O4tZu",
+                    "y2": "k1Sy8TXrs2",
+                    "w1": "j5pbJxGPhD",
+                    "h1": "YIbzaoUFsF",
+                    "opacity1": "dVSrXPH9Rn",
+                    "_text": "ET76KH21IT",
+                    "font": "GbOKlmkr7P",
+                    "color2": "yc9oSuOZtr",
+                    "size": "6qYHj9rMqw",
+                    "x": "1xaObsSCae",
+                    "y": "1GFVaiSZea",
+                    "opacity2": "XHyaNJFl4J"
+                },
+                "options": {
+                    "align": "center",
+                    "text_type": "fill",
+                    "text_italic": "normal",
+                    "text_bold": "normal",
+                    "NOTES": "butt"
+                },
+                "outputs": {
+                    "action": [
+                        "3lVWnvO5LQ"
+                    ],
+                    "canvas": [
+                        "bz3YRTxvFN"
+                    ]
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 6623,
+                    "y": 2443,
+                    "z": 69,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "https://static.vecteezy.com/system/resources/previews/000/398/296/original/blank-purple-patterned-background-vector.jpg"
+                },
+                "outputs": {
+                    "text": [
+                        "JRpPW2hs0Q"
+                    ]
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 6624,
+                    "y": 2274,
+                    "z": 71,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "https://static.vecteezy.com/system/resources/previews/000/407/635/non_2x/purple-equalizer-pattern-background-vector.jpg"
+                },
+                "outputs": {
+                    "text": [
+                        "Kv2siVrG8H"
+                    ]
+                }
+            },
+            {
+                "name": "generate_random_color",
+                "info": {
+                    "x": 7003,
+                    "y": 2279,
+                    "z": 72,
+                    "color": "#5a5a5a",
+                    "height": 113,
+                    "width": 248
+                },
+                "inputs": {
+                    "action": "PSkO8cXaSY"
+                },
+                "outputs": {
+                    "action": [
+                        "U6UpUTgQnP"
+                    ],
+                    "color": [
+                        "yc9oSuOZtr"
+                    ]
+                }
+            },
+            {
+                "name": "send_message_first",
+                "info": {
+                    "x": 8328,
+                    "y": 3005,
+                    "z": 73,
+                    "color": "#5a5a5a",
+                    "height": 237,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "nsfp8lvikg",
+                    "channel": "RFBAHfLffQ",
+                    "text": "0HEVqX9wUb",
+                    "embed": "AkA9ylLbNc",
+                    "attachment": "0nrW3tR6FJ",
+                    "split_message": "Ig1yL8EONu"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                }
+            },
+            {
+                "name": "number_6x",
+                "info": {
+                    "x": 7001,
+                    "y": 2963,
+                    "z": 74,
+                    "color": "#5a5a5a",
+                    "height": 387,
+                    "width": 356
+                },
+                "options": {
+                    "number1": "11",
+                    "number2": "5",
+                    "number3": "5",
+                    "number4": "5",
+                    "number5": "5",
+                    "number6": "3"
+                },
+                "outputs": {
+                    "number1": [
+                        "6qYHj9rMqw"
+                    ],
+                    "number2": [
+                        "j5pbJxGPhD"
+                    ],
+                    "number3": [
+                        "YIbzaoUFsF"
+                    ],
+                    "number4": [
+                        "dVSrXPH9Rn"
+                    ],
+                    "number5": [
+                        "XHyaNJFl4J"
+                    ],
+                    "number6": [
+                        "1xaObsSCae"
+                    ]
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 6994,
+                    "y": 2441,
+                    "z": 76,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": "Arial"
+                },
+                "outputs": {
+                    "text": [
+                        "GbOKlmkr7P"
+                    ]
+                }
+            },
+            {
+                "name": "convert_canvas_to_image",
+                "info": {
+                    "x": 8027,
+                    "y": 3007,
+                    "z": 77,
+                    "color": "#5a5a5a",
+                    "height": 113,
+                    "width": 255
+                },
+                "inputs": {
+                    "action": "3lVWnvO5LQ",
+                    "canvas": "bz3YRTxvFN"
+                },
+                "outputs": {
+                    "action": [
+                        "nsfp8lvikg"
+                    ],
+                    "image": [
+                        "0nrW3tR6FJ"
+                    ]
+                }
+            },
+            {
+                "name": "number_3x",
+                "info": {
+                    "x": 6996,
+                    "y": 2676,
+                    "z": 78,
+                    "color": "#5a5a5a",
+                    "height": 219,
+                    "width": 356
+                },
+                "options": {
+                    "number1": "3",
+                    "number2": "5",
+                    "number3": "5"
+                },
+                "outputs": {
+                    "number1": [
+                        "1GFVaiSZea"
+                    ],
+                    "number2": [
+                        "3st3PDrpAR"
+                    ],
+                    "number3": [
+                        "wJkA2MdhSA"
+                    ]
+                }
+            },
+            {
+                "name": "send_message_component",
+                "info": {
+                    "x": 5959,
+                    "y": 19,
+                    "z": 79,
+                    "color": "#5a5a5a",
+                    "height": 268,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "UKjI4hqHij",
+                    "channel": "QXG62Dz8gj",
+                    "text": "6zRpXiMUfm",
+                    "embed": "ddeE1jw67W",
+                    "attachment": "cyDRVajkUj",
+                    "buttons": "5wQ5rAtuRz",
+                    "split_message": "lsNDkXcCX7"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": [],
+                    "error": []
+                }
+            },
+            {
+                "name": "create_button",
+                "info": {
+                    "x": 5614,
+                    "y": 45,
+                    "z": 80,
+                    "color": "#5a5a5a",
+                    "height": 268,
+                    "width": 265
+                },
+                "inputs": {
+                    "action": "0C48x2AIgG",
+                    "setStyle": "S599ODMIei",
+                    "setLabel": "vF79wZrzFb",
+                    "setEmoji": "42wagR6zNC",
+                    "setURL": "KJU6iIf3A4",
+                    "setID": "48DCrb4dsI",
+                    "setDisabled": "ZwUZKE28uO"
+                },
+                "outputs": {
+                    "action": [
+                        "UKjI4hqHij"
+                    ],
+                    "button": [
+                        "5wQ5rAtuRz"
+                    ]
+                }
+            },
+            {
+                "name": "text_6x",
+                "info": {
+                    "x": 5578,
+                    "y": 344,
+                    "z": 81,
+                    "color": "#5a5a5a",
+                    "height": 453,
+                    "width": 318
+                },
+                "options": {
+                    "text1": "blurple",
+                    "text2": "Help menu",
+                    "text3": ":helparrived:",
+                    "text4": "Help",
+                    "text5": "",
+                    "text6": ""
+                },
+                "outputs": {
+                    "text1": [
+                        "S599ODMIei"
+                    ],
+                    "text2": [
+                        "vF79wZrzFb"
+                    ],
+                    "text3": [
+                        "42wagR6zNC"
+                    ],
+                    "text4": [
+                        "48DCrb4dsI"
+                    ],
+                    "text5": [],
+                    "text6": []
+                }
+            },
+            {
+                "name": "find_server_emoji",
+                "info": {
+                    "x": 7060,
+                    "y": 27,
+                    "z": 83,
+                    "color": "#5a5a5a",
+                    "height": 144,
+                    "width": 486
+                },
+                "inputs": {
+                    "action": "WkJfNB1Ivr",
+                    "server": "tNf1ekXOzJ",
+                    "search_value": "WXer3XPCU4"
+                },
+                "options": {
+                    "find_server_emoji_by": "id"
+                },
+                "outputs": {
+                    "action": [],
+                    "server_emoji": []
+                }
+            },
+            {
+                "name": "create_embed_message",
+                "info": {
+                    "x": 6905,
+                    "y": 1262,
+                    "z": 86,
+                    "color": "#5a5a5a",
+                    "height": 517,
+                    "width": 340
+                },
+                "inputs": {
+                    "action": "yleIf1APXl",
+                    "color": "S41lB66RfB",
+                    "thumbnail": "VVtqFvay69",
+                    "author_icon": "82sysPSuha",
+                    "author_name": "ZiEuZtx62F",
+                    "author_url": "SW6uFxsxDk",
+                    "title": "NAV5iCEuiS",
+                    "url": "9ImtlrAi77",
+                    "description": "0rGw4pRuuf",
+                    "image": "DBiWkoy6sd",
+                    "footer_icon": "6xhmBae4a5",
+                    "footer_text": "ssbQ37e3nL",
+                    "timestamp": "GpbY7fqd9C"
+                },
+                "outputs": {
+                    "action": [
+                        "WaDK0tfYV5"
+                    ],
+                    "message_embed": [
+                        "Ld7VSKoGy7"
+                    ]
+                }
+            },
+            {
+                "name": "create_button",
+                "info": {
+                    "x": 5301,
+                    "y": 1198,
+                    "z": 87,
+                    "color": "#5a5a5a",
+                    "height": 268,
+                    "width": 265
+                },
+                "inputs": {
+                    "action": "eGv54LKal0",
+                    "setStyle": "QGq42gzpdk",
+                    "setLabel": "ONTwwKvJpz",
+                    "setEmoji": "nfiUxm5bmO",
+                    "setURL": "UpuLOmq8Rj",
+                    "setID": "LAkl8zprPj",
+                    "setDisabled": "8cpgJL24H2"
+                },
+                "outputs": {
+                    "action": [
+                        "aKvN92q0ZR"
+                    ],
+                    "button": [
+                        "zwGhe0TVBG"
+                    ]
+                }
+            },
+            {
+                "name": "text_6x",
+                "info": {
+                    "x": 5290,
+                    "y": 1547,
+                    "z": 88,
+                    "color": "#5a5a5a",
+                    "height": 453,
+                    "width": 318
+                },
+                "options": {
+                    "text1": "blurple",
+                    "text2": "Help",
+                    "text3": ":helparrived:",
+                    "text4": "title",
+                    "text5": "",
+                    "text6": ""
+                },
+                "outputs": {
+                    "text1": [
+                        "QGq42gzpdk"
+                    ],
+                    "text2": [
+                        "ONTwwKvJpz",
+                        "LAkl8zprPj"
+                    ],
+                    "text3": [],
+                    "text4": [
+                        "NAV5iCEuiS"
+                    ],
+                    "text5": [],
+                    "text6": []
+                }
+            },
+            {
+                "name": "send_message_component",
+                "info": {
+                    "x": 7442,
+                    "y": 1309,
+                    "z": 90,
+                    "color": "#5a5a5a",
+                    "height": 268,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "WaDK0tfYV5",
+                    "channel": "w1KnJvPXMM",
+                    "text": "tVvRrFAhe7",
+                    "embed": "Ld7VSKoGy7",
+                    "attachment": "dCj6pjyzQC",
+                    "buttons": "fJ54W06wiJ",
+                    "split_message": "SeXNGy6skI"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": [],
+                    "error": []
+                }
+            },
+            {
+                "name": "create_list",
+                "info": {
+                    "x": 5610,
+                    "y": 1239,
+                    "z": 91,
+                    "color": "#5a5a5a",
+                    "height": 113,
+                    "width": 211
+                },
+                "inputs": {
+                    "action": "aKvN92q0ZR"
+                },
+                "outputs": {
+                    "action": [
+                        "VlKIAqZQ6K"
+                    ],
+                    "list": [
+                        "ciBFoCsDlQ"
+                    ]
+                }
+            },
+            {
+                "name": "add_item_to_list",
+                "info": {
+                    "x": 5877,
+                    "y": 1241,
+                    "z": 92,
+                    "color": "#5a5a5a",
+                    "height": 196,
+                    "width": 443
+                },
+                "inputs": {
+                    "action": "VlKIAqZQ6K",
+                    "list": "ciBFoCsDlQ",
+                    "item": "zwGhe0TVBG",
+                    "custom_position": "RQXRgP23x0"
+                },
+                "options": {
+                    "position_type": "first"
+                },
+                "outputs": {
+                    "action": [
+                        "k6bTkMZzOZ"
+                    ],
+                    "list": [
+                        "VDHAq8SMd4"
+                    ]
+                }
+            },
+            {
+                "name": "create_button_row",
+                "info": {
+                    "x": 6398,
+                    "y": 1294,
+                    "z": 93,
+                    "color": "#5a5a5a",
+                    "height": 113,
+                    "width": 250
+                },
+                "inputs": {
+                    "action": "k6bTkMZzOZ",
+                    "buttons": "VDHAq8SMd4"
+                },
+                "outputs": {
+                    "action": [
+                        "yleIf1APXl"
+                    ],
+                    "buttonrow": [
+                        "fJ54W06wiJ"
+                    ]
+                }
+            },
+            {
+                "name": "text",
+                "info": {
+                    "x": 6167,
+                    "y": 1855,
+                    "z": 98,
+                    "color": "#5a5a5a",
+                    "height": 118,
+                    "width": 305
+                },
+                "options": {
+                    "text": ";help - Displays a list of help commands"
+                },
+                "outputs": {
+                    "text": [
+                        "ANRLbACDVJ"
+                    ]
+                }
+            },
+            {
+                "name": "edit_message_component",
+                "info": {
+                    "x": 6208,
+                    "y": 1577,
+                    "z": 99,
+                    "color": "#5a5a5a",
+                    "height": 227,
+                    "width": 276
+                },
+                "inputs": {
+                    "action": "0bgaQxcb59",
+                    "message": "zOMipSZWlg",
+                    "message_text": "ANRLbACDVJ",
+                    "message_embed": "9P6yR78dyp",
+                    "component": "plxgbDPZvf"
+                },
+                "outputs": {
+                    "action": [],
+                    "error": []
+                }
+            },
+            {
+                "name": "Captcha_GeneratorV3",
+                "info": {
+                    "x": 8840,
+                    "y": 206,
+                    "z": 100,
+                    "color": "#5a5a5a",
+                    "height": 134,
+                    "width": 290
+                },
+                "inputs": {
+                    "action": "UMlRYFu1RE",
+                    "membere": "90PO9Fh4Og"
+                },
+                "outputs": {
+                    "action1": [],
+                    "action2": []
+                }
+            },
+            {
+                "name": "typing_start_event",
+                "info": {
+                    "x": 8181,
+                    "y": 53,
+                    "z": 101,
+                    "color": "#5a5a5a",
+                    "height": 144,
+                    "width": 218
+                },
+                "outputs": {
+                    "action": [],
+                    "channel": [
+                        "8QznmpKfNd"
+                    ],
+                    "user": [
+                        "ugtBNMqwTG"
+                    ]
+                }
+            },
+            {
+                "name": "generate_random_number",
+                "info": {
+                    "x": 8471,
+                    "y": 210,
+                    "z": 102,
+                    "color": "#5a5a5a",
+                    "height": 186,
+                    "width": 289
+                },
+                "inputs": {
+                    "action": "rmcAehlJJp",
+                    "min_number": "o1c2tjy4O4",
+                    "max_number": "qhZ6ONV6DX"
+                },
+                "outputs": {
+                    "action": [],
+                    "number": []
+                }
+            },
+            {
+                "name": "send_message_first",
+                "info": {
+                    "x": 9718,
+                    "y": 62,
+                    "z": 103,
+                    "color": "#5a5a5a",
+                    "height": 237,
+                    "width": 280
+                },
+                "inputs": {
+                    "action": "M5hIh9zSXx",
+                    "channel": "8QznmpKfNd",
+                    "text": "TyHjWTnon5",
+                    "embed": "958SkAIep4",
+                    "attachment": "dw5pMqioJP",
+                    "split_message": "4a6sRzwRTZ"
+                },
+                "outputs": {
+                    "action": [],
+                    "message": []
+                }
+            },
+            {
+                "name": "generate_random_text",
+                "info": {
+                    "x": 9307,
+                    "y": 35,
+                    "z": 104,
+                    "color": "#5a5a5a",
+                    "height": 134,
+                    "width": 276
+                },
+                "inputs": {
+                    "action": "Vw2N5yOWmU",
+                    "max_characters": "CPQEimzSFh"
+                },
+                "outputs": {
+                    "action": [
+                        "M5hIh9zSXx"
+                    ],
+                    "text": [
+                        "TyHjWTnon5"
+                    ]
+                }
+            },
+            {
+                "name": "number",
+                "info": {
+                    "x": 9270,
+                    "y": 194,
+                    "z": 105,
+                    "color": "#5a5a5a",
+                    "height": 107,
+                    "width": 343
+                },
+                "options": {
+                    "number": "24"
+                },
+                "outputs": {
+                    "number": [
+                        "CPQEimzSFh"
+                    ]
+                }
+            },
+            {
+                "name": "captgenV2",
+                "info": {
+                    "x": 8846,
+                    "y": 24,
+                    "z": 106,
+                    "color": "#5a5a5a",
+                    "height": 113,
+                    "width": 226
+                },
+                "inputs": {
+                    "action": "lNvCRPDkiO",
+                    "membere": "ugtBNMqwTG"
+                },
+                "outputs": {
+                    "action": [
+                        "Vw2N5yOWmU"
+                    ]
+                }
             }
         ],
-        "notes": []
+        "notes": [
+            {
+                "title": "Almost there with canvas\n\nFix it soon",
+                "description": "",
+                "color": "#9b0d0d",
+                "x": 7558,
+                "y": 2230,
+                "z": 1,
+                "width": 400,
+                "height": 400
+            }
+        ]
     }
 ]

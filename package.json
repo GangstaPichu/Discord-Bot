@@ -8,6 +8,7 @@
         "start": "node bot.js"
     },
     "dependencies": {
+        "canvas": "^2.8.0",
         "discord-badges": "^0.0.0",
         "discord-banner": "^1.6.7",
         "discord-buttons": "^4.0.0",
